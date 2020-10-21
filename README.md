@@ -4,5 +4,5 @@ I like competition, being on top of technology and when I'm late I recover easil
 
 Learning Javascript, Node, HTML, CSS, Laravel, Dart, Flutter, PostgreSQL, MongoDB and in the future React and Typescript.
 
-I also love PowerPoint xD   
+I also love PowerPoint! xD   
 

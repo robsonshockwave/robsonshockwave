@@ -1,6 +1,6 @@
 ### Hello, world! ✟
 
-I like competition, being on top of technology and when I'm late I recover easily.
+I like competition, being on top of technology and when I'm late I recover easily...
 
 Learning Javascript, Node, HTML, CSS, Laravel, React, PostgreSQL, MongoDB and in the future Typescript, Dart and Flutter.
 <br>

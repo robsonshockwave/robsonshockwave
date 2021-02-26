@@ -14,4 +14,4 @@ Learning Javascript, Typescript, NodeJS, HTML, CSS, ReactJS, PostgreSQL, MySQL a
 
 <hr>
 
-<span align="center"><h5>"God is good all the time, all the time God is good!"</h5><span>
+<h5>"God is good all the time, all the time God is good!"</h5>

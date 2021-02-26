@@ -1,14 +1,17 @@
 ### Hello, world! ✟
 
-I like competition, being on top of technology and when I'm late I recover easily.
+I currently work with Business Intelligence and Data Visualization, in addition to delving into web development.
 
-Learning Javascript, Node, HTML, CSS, Laravel, React, PostgreSQL, MongoDB and in the future Typescript, Dart and Flutter.
+Learning Javascript, Typescript, NodeJS, HTML, CSS, ReactJS, PostgreSQL, MySQL and MongoDB.
 <br>
-🦯 Work tools: VSCode, Docker, Pgadmin, Atom, Postman and many others.
+🦯 Work tools: VSCode, Docker, Pgadmin, Atom(sometimes), Insominia, Tableau and many others.
 
-I also love PowerPoint! xD   
 <br><br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=robsonshockwave&show_icons=true&theme=algolia&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=robsonshockwave">
 </p>
+
+<hr>
+
+<center><h5>"God is good all the time, all the time God is good!"</h5></center>

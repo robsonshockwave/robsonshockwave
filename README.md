@@ -1,6 +1,6 @@
 ### Hello, world! ✟
 
-I currently work with Business Intelligence and Data Visualization, in addition to delving into web development.
+I currently work with Business Intelligence and Data Visualization, in addition to delving into Web Fevelopment.
 
 Learning Javascript, Typescript, NodeJS, HTML, CSS, ReactJS, PostgreSQL, MySQL and MongoDB.
 <br>
@@ -14,4 +14,4 @@ Learning Javascript, Typescript, NodeJS, HTML, CSS, ReactJS, PostgreSQL, MySQL a
 
 <hr>
 
-<center><h5>"God is good all the time, all the time God is good!"</h5></center>
+<span align="center"><h5>"God is good all the time, all the time God is good!"</h5><span>

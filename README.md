@@ -1,6 +1,6 @@
 ### Hello, world! ✟
 
----
+--- 
 
 I currently work with Business Intelligence and Data Visualization, in addition to delving into Web Fevelopment.
 

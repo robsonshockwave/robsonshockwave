@@ -12,7 +12,7 @@ My portfolio of B.I. and Data viewer: [![Tableau Badge](https://shields.io/badge
   (async () => {
     await user.index({
       nome: 'Robson Arruda',
-      current_job: 'I am currently working at Lemobs with business intelligence and data visualization'
+      current_job: 'I am currently working at Lemobs with business intelligence and data visualization',
       stack: ['HTML5','CSS3','Javascript','NodeJS', 'ReactJS', 'MongoDB', 'PostgreSQL', 'Jest'],
       hobbies: ['Videogames', 'Animes', 'Learn new things']
     });

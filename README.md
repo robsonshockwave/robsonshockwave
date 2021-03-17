@@ -21,7 +21,6 @@ My portfolio of B.I. and Data visualization:   [![Tableau Badge](https://shields
   })();
 ```
 
-
 **What i use**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
@@ -30,13 +29,8 @@ My portfolio of B.I. and Data visualization:   [![Tableau Badge](https://shields
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS"/></code>  
 <code><img height="20" src="https://user-images.githubusercontent.com/51785898/91358293-f0581000-e7c8-11ea-95f0-f1a8e29ee9d1.png" alt="Testes"/></code>
 
-
-
-
-
 <p align="justify">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=robsonshockwave&show_icons=true&count_private=true&theme=dracula&hide=issues" />
 </a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonshockwave&layout=compact&theme=dracula" />
 </a>
-

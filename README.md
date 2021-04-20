@@ -34,5 +34,5 @@ My portfolio of B.I. and Data visualization:   [![Tableau Badge](https://shields
 </a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonshockwave&layout=compact&theme=dracula" />
 </a>
-  
+   
 <h6>This portfolio is not just for personal projects, I put annotations and some tests too so that when I need it.</h6> 

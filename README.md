@@ -18,7 +18,7 @@ My portfolio of B.I. and Data visualization:   [![Tableau Badge](https://shields
     });
     
     return response.status(201).send();
-  })();
+  })(); 
 ```
 
 **What i use**  

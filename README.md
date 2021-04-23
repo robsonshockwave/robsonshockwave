@@ -17,7 +17,7 @@ My portfolio of B.I. and Data visualization:   [![Tableau Badge](https://shields
       hobbies: ['Videogames', 'Animes', 'Learn new things']
     });
     
-    return response.status(201).send();
+    return response.status(201).send(); 
   })(); 
 ```
 

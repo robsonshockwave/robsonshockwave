@@ -15,7 +15,7 @@ My portfolio of B.I. and Data visualization:   [![Tableau Badge](https://shields
       current_job: 'I am currently working at Lemobs with business intelligence and data visualization',
       stack: ['HTML5','CSS3','Javascript','NodeJS', 'ReactJS', 'MongoDB', 'PostgreSQL', 'Jest'],
       hobbies: ['Videogames', 'Animes', 'Learn new things']
-    });
+    }); 
     
     return response.status(201).send(); 
   })(); 

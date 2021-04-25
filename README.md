@@ -6,7 +6,7 @@ My portfolio of B.I. and Data visualization:   [![Tableau Badge](https://shields
  
 <div>
 <img src="header.png">
-</div>
+</div> 
 
 ```javascript
   (async () => {

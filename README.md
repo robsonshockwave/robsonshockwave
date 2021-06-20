@@ -6,7 +6,7 @@ My portfolio of B.I. and Data visualization:   [![Tableau Badge](https://shields
  
 <div>   
 <img src="header.png">  
-</div> 
+</div>  
 
 ```javascript
   (async () => {
@@ -33,6 +33,6 @@ My portfolio of B.I. and Data visualization:   [![Tableau Badge](https://shields
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=robsonshockwave&show_icons=true&count_private=true&theme=dracula&hide=issues" />
 </a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonshockwave&layout=compact&theme=dracula" />
-</a>   
+</a>  
     
 <h6>This portfolio is not just for personal projects, I put annotations and some tests too so that when I need it.</h6>  

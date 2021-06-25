@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in//)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:robsondearruda1999@gmail.com)](mailto:robsondearruda1999@gmail.com)
 <br/>
-My portfolio of B.I. and Data visualization:   [![Tableau Badge](https://shields.io/badge/-Tableau-orange?style=flat-square&link=https://public.tableau.com/profile/robson.de.arruda.silva#!/?newProfile=&activeTab=0)](https://public.tableau.com/profile/robson.de.arruda.silva#!/?newProfile=&activeTab=0)
+My portfolio of B.I./Data visualization:   [![Tableau Badge](https://shields.io/badge/-Tableau-orange?style=flat-square&link=https://public.tableau.com/profile/robson.de.arruda.silva#!/?newProfile=&activeTab=0)](https://public.tableau.com/profile/robson.de.arruda.silva#!/?newProfile=&activeTab=0)
  
 <div>   
 <img src="header.png">  
@@ -12,7 +12,6 @@ My portfolio of B.I. and Data visualization:   [![Tableau Badge](https://shields
   (async () => {
     await user.index({
       nome: 'Robson Arruda',
-      current_job: 'I am currently working at Lemobs with business intelligence and data visualization',
       stack: ['HTML5','CSS3','Javascript','NodeJS', 'ReactJS', 'MongoDB', 'PostgreSQL', 'Jest'],
       hobbies: ['Videogames', 'Animes', 'Learn new things']
     }); 

@@ -37,5 +37,6 @@ My portfolio of B.I./Data visualization:   [![Tableau Badge](https://shields.io/
 
 <hr>
 
-<h6>Current song I'm listening to program</h6>
+<h6>Current song I'm listening to program:</h6>
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kirapeixes&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=kirapeixes&redirect=true)

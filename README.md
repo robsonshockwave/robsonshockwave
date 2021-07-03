@@ -26,7 +26,6 @@ My portfolio of B.I./Data visualization:   [![Tableau Badge](https://shields.io/
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS"/></code>  
-<code><img height="20" src="https://user-images.githubusercontent.com/51785898/91358293-f0581000-e7c8-11ea-95f0-f1a8e29ee9d1.png" alt="Testes"/></code>
 
 <p align="justify">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=robsonshockwave&show_icons=true&count_private=true&theme=dracula&hide=issues" />
@@ -36,4 +35,7 @@ My portfolio of B.I./Data visualization:   [![Tableau Badge](https://shields.io/
     
 <h6>This portfolio is not just for personal projects, I put annotations and some tests too so that when I need it.</h6>  
 
+<hr>
+
+<h6>Current song I'm listening to program</h6>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kirapeixes&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=kirapeixes&redirect=true)

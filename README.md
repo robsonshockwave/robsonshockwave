@@ -35,3 +35,5 @@ My portfolio of B.I./Data visualization:   [![Tableau Badge](https://shields.io/
 </a>  
     
 <h6>This portfolio is not just for personal projects, I put annotations and some tests too so that when I need it.</h6>  
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kirapeixes&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=kirapeixes&redirect=true)

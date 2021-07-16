@@ -41,4 +41,4 @@ My portfolio of B.I./Data visualization:   [![Tableau Badge](https://shields.io/
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kirapeixes&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=kirapeixes&redirect=true)
 
-![Snake animation](https://github.com/robsonshockwave/robsonshockwave/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/robsonshockwave/robsonshockwave/blob/output/github-contribution-grid-snake.svg) 

@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:robsondearruda1999@gmail.com)](mailto:robsondearruda1999@gmail.com) 
 <br/>
 My portfolio of B.I./Data visualization:   [![Tableau Badge](https://shields.io/badge/-Tableau-orange?style=flat-square&link=https://public.tableau.com/profile/robson.de.arruda.silva#!/?newProfile=&activeTab=0)](https://public.tableau.com/profile/robson.de.arruda.silva#!/?newProfile=&activeTab=0)
- 
+  
 <div>   
 <img src="header.png">    
 </div>  

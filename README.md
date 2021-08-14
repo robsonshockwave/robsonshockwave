@@ -4,9 +4,9 @@
 <br/> 
 My portfolio of B.I./Data visualization:   [![Tableau Badge](https://shields.io/badge/-Tableau-orange?style=flat-square&link=https://public.tableau.com/profile/robson.de.arruda.silva#!/?newProfile=&activeTab=0)](https://public.tableau.com/profile/robson.de.arruda.silva#!/?newProfile=&activeTab=0)
   
-<div>      
+<div>
 <img src="header.png">     
-</div>  
+</div> 
 
 ```javascript
   (async () => {

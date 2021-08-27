@@ -13,7 +13,7 @@ My portfolio of B.I./Data visualization: [![Tableau Badge](https://shields.io/ba
 <hr>
 
 <div style="display:flex">
-  <span style="font-size: 7px"><b>What i use</b></span>
+  <span style="font-size: 4px"><b>What i use</b></span>
   <a> 
     <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/javascript.png" alt="JAVASCRIPT" height="75" width="75" />
   </a>

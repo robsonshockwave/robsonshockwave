@@ -1,17 +1,19 @@
-<h3><i>Hello, sir/lady! </i>🧓👵</h3>
+<h4><i>Hello, sir/lady! </i>🧓👵</h4>
 
 <br>
 
-**Info:** [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/robsonshockwave)](https://github.com/robsonshockwave)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in//)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:robsondearruda1999@gmail.com)](mailto:robsondearruda1999@gmail.com)
+<span style="font-size: 6px">
 
-**My portfolio of B.I./Data visualization:** [![Tableau Badge](https://shields.io/badge/-Tableau-orange?style=flat-square&link=https://public.tableau.com/profile/robson.de.arruda.silva#!/?newProfile=&activeTab=0)](https://public.tableau.com/profile/robson.de.arruda.silva#!/?newProfile=&activeTab=0)
+Info: [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/robsonshockwave)](https://github.com/robsonshockwave)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in//)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:robsondearruda1999@gmail.com)](mailto:robsondearruda1999@gmail.com)  
+My portfolio of B.I./Data visualization: [![Tableau Badge](https://shields.io/badge/-Tableau-orange?style=flat-square&link=https://public.tableau.com/profile/robson.de.arruda.silva#!/?newProfile=&activeTab=0)](https://public.tableau.com/profile/robson.de.arruda.silva#!/?newProfile=&activeTab=0)
+</span>
 
 <hr>
 
 <div style="display:flex">
-  <p style="font-size: 9px">What i use</p>
+  <span style="font-size: 7px"><b>What i use</b></span>
   <a> 
     <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/javascript.png" alt="JAVASCRIPT" height="75" width="75" />
   </a>

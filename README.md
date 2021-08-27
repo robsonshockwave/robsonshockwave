@@ -9,6 +9,14 @@
 
 <hr>
 
+<p align="justify">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=robsonshockwave&show_icons=true&count_private=true&theme=dracula&hide=issues" />
+</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonshockwave&layout=compact&theme=dracula" />
+</a>
+
+<h6>This portfolio is not just for personal projects, I put annotations and some tests too so that when I need it.</h6>
+
 <div style="display:flex">
   <span style="color: yellow"><b>What i use:</b></span>
   <a> 
@@ -33,16 +41,6 @@
     <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/sass.png" alt="SASS" height="75" width="75" />
   </a>
 </div>
-
-<hr>
-
-<p align="justify">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=robsonshockwave&show_icons=true&count_private=true&theme=dracula&hide=issues" />
-</a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonshockwave&layout=compact&theme=dracula" />
-</a>  
-    
-<h6>This portfolio is not just for personal projects, I put annotations and some tests too so that when I need it.</h6>
 
 <hr>
 

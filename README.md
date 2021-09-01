@@ -12,9 +12,9 @@
 <hr>
 
 <p align="justify">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=robsonshockwave&show_icons=true&count_private=true&theme=dracula&hide=issues" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=robsonshockwave&show_icons=true&count_private=true&theme=kacho_ga&hide=issues" />
 </a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonshockwave&layout=compact&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonshockwave&layout=compact&theme=kacho_ga" />
 </a>
 
 <h6>This portfolio is not just for personal projects, I put annotations and some tests too so that when I need it.</h6>

@@ -11,10 +11,10 @@
 
 <hr>
 
-</a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=robsonshockwave&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<div style="display:flex; align-items:center; justify-content:center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=robsonshockwave&bg_color=30,e96443,904e95&title_color=fff&text_color=000" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonshockwave&layout=compact&theme=kacho_ga" />
-</a>
+</div>
 
 <h6>This portfolio is not just for personal projects, I put annotations and some tests too so that when I need it.</h6>
 

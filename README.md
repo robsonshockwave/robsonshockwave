@@ -1,4 +1,4 @@
-<h4><i>Hehello! 🐦 </i>🧓👵</h4>
+<h2>Hehello! 🐦</h2>
   
 <h5>I do Information Systems at the Federal University of Itajubá (UNIFEI) and I am an administration technician at IFSULDEMINAS.</h5>
 

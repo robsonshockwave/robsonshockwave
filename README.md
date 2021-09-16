@@ -13,7 +13,7 @@
 <hr>
 
 <div style="display:flex; align-items:center; justify-content:center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=robsonshockwave&bg_color=fff,BE1005,260000&title_color=E0AA3E&text_color=2F59AF" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=robsonshockwave&bg_color=fff,BE1005,260000&title_color=2F59AF&text_color=FFF" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonshockwave&layout=compact&theme=maroongold" />
 </div>
 

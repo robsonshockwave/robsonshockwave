@@ -13,8 +13,8 @@
 <hr>
 
 <div style="display:flex; align-items:center; justify-content:center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=robsonshockwave&bg_color=0009ff,4900ff,000&title_color=2f97c1&text_color=0cf574" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonshockwave&layout=compact&theme=blue-green" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=robsonshockwave&bg_color=BE1005,260000&title_color=2F59AF&text_color=E0AA3E" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonshockwave&layout=compact&theme=maroongold" />
 </div>
 
 <h6>This portfolio is not just for personal projects, I put annotations and some tests too so that when I need it.</h6>

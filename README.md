@@ -53,4 +53,4 @@
 
 <hr>
 
-<h6><i>É preciso saber viver! 💛</i></h6>
+<h6 align="right"><i>É preciso saber viver! 💛</i></h6>

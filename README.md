@@ -9,7 +9,6 @@
 [![Tableau Badge](https://img.shields.io/badge/-Tableau-orange?style=flat-square&link=https://public.tableau.com/profile/robson.de.arruda.silva#!/?newProfile=&activeTab=0)](https://public.tableau.com/profile/robson.de.arruda.silva#!/?newProfile=&activeTab=0)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:robsondearruda1999@gmail.com)](mailto:robsondearruda1999@gmail.com)  
 
-
 <hr>
 
 <p align="center">
@@ -51,3 +50,7 @@
 <h6>Current song I'm listening to program:</h6>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kirapeixes&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=kirapeixes&redirect=true)
+
+<hr>
+
+<h6><i>É preciso saber viver! 💛</i></h6>

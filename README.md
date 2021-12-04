@@ -1,4 +1,4 @@
-<h2>Hehello! 🐦</h2>
+<h2>Hi! 🎅</h2>
   
 <h5>I do Information Systems at the Federal University of Itajubá (UNIFEI) and I am an administration technician at IFSULDEMINAS.</h5>
  
@@ -12,7 +12,7 @@
 <hr>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=robsonshockwave&bg_color=fff,BE1005,260000&title_color=2F59AF&text_color=FFF", width="400" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=robsonshockwave&bg_color=fff,ffe300,260000&title_color=ffe300F&text_color=FFF", width="400" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonshockwave&layout=compact&theme=maroongold", width="325" />
 </p>
 
@@ -44,12 +44,6 @@
 </div>
 
 ![Snake animation](https://github.com/robsonshockwave/robsonshockwave/blob/output/github-contribution-grid-snake.svg)
-
-<hr>
- 
-<h6>Current song I'm listening to program:</h6>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kirapeixes&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=kirapeixes&redirect=true)
 
 <hr>
 

@@ -1,6 +1,9 @@
 <h2>Hi! 🎅</h2>
   
-<h5>I do Information Systems at the Federal University of Itajubá (UNIFEI) and I am an administration technician at IFSULDEMINAS.</h5>
+<h5>I do Information Systems at the Federal University of Itajubá (UNIFEI) and I am an administration technician at IFSULDEMINAS.
+<br />
+I'm passionate about front-end development! <3
+</h5>
  
 <br>
 

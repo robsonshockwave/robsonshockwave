@@ -21,7 +21,7 @@
 
 <h6>This portfolio is not just for personal projects, I put annotations and some tests too so that when I need it.</h6>
 
-<div align="center">
+<div align="center"><br />
   <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
@@ -39,7 +39,7 @@
 ![Snake animation](https://github.com/robsonshockwave/robsonshockwave/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">  
-  <img align="center" src="https://github.com/robsonshockwave/robsonshockwave/blob/master/.github/workflows/gif.gif" height="290" width="800" />
+  <img align="center" src="https://github.com/robsonshockwave/robsonshockwave/blob/master/.github/workflows/gif.gif" />
 </p>
 
 <hr />

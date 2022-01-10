@@ -72,7 +72,7 @@
 ![Snake animation](https://github.com/robsonshockwave/robsonshockwave/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">  
-  <img align="center" src="https://github.com/robsonshockwave/robsonshockwave/blob/master/.github/workflows/gif.gif" height="350" width="800" />
+  <img align="center" src="https://github.com/robsonshockwave/robsonshockwave/blob/master/.github/workflows/gif.gif" height="350" width="700" />
 </p>
 
 <hr />

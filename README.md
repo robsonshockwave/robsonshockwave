@@ -1,4 +1,4 @@
-<h3>Hio! 🎅</h3>
+<h3>Hello!</h3>
 <h5>
 › I do Information Systems at the Federal University of Itajubá (UNIFEI) and I am an administration technician at IFSULDEMINAS.
 <br />
